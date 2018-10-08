@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Flasher/fr/OrnomaS/Flasher/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Flasher/fr/OrnomaS/Flasher/lib/jfoenix-8.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Flasher/fr/OrnomaS/Flasher/lib/Patcher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
