@@ -397,7 +397,7 @@ public class Controller
     {
         Runnable task = () -> {
             Runtime rt = Runtime.getRuntime();
-            String url = "https://github.com/";
+            String url = "https://github.com/OrnomaS/JetBrain-Modded-ToolBox";
             try {
                 rt.exec("rundll32 url.dll,FileProtocolHandler " + url);
             } catch (IOException e) {
