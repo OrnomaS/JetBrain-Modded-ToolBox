@@ -5,8 +5,6 @@ import com.jfoenix.controls.JFXProgressBar;
 import javafx.fxml.FXML;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.AnchorPane;
-
-import javax.rmi.CORBA.Util;
 import java.io.File;
 import java.io.IOException;
 
