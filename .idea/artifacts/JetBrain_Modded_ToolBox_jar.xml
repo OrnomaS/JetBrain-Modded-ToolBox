@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JetBrain-Modded-ToolBox:jar">
+    <output-path>$USER_HOME$/Desktop/</output-path>
+    <root id="archive" name="JetBrain-Modded-ToolBox.jar">
+      <element id="module-output" name="JetBrain-Modded-ToolBox" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/Flasher/fr/OrnomaS/Flasher/lib/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/Flasher/fr/OrnomaS/Flasher/lib/jfoenix-8.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/Flasher/fr/OrnomaS/Flasher/lib/Patcher.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
